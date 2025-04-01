@@ -1,2 +1,1 @@
-IMPORTANT!!!
-vous deuvez faire npm install pour le backend et le frontend
+IMPORTANT !!! Vous devez exécuter npm install pour le backend et le frontend.
